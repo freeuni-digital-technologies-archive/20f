@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Home
+title: მთავარი
 nav_order: 1
-description: "sample description"
+description: ამ გვერდზე არის საიტის აღწერა და გამოყენების ინსტრუქცია
 ---
 
-# Homepage
+
+
 
 

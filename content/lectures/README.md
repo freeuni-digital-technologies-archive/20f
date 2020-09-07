@@ -1,6 +1,6 @@
 ---
-title: lectures
+title: ლექციები
 has_children: true
 ---
 
-Table of contents should be automatically generated 
+ამ გვერდზე არის ლექციები

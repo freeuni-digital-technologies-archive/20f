@@ -1,10 +1,11 @@
 ---
-title: lecture 1 - some topic
-parent: lectures
+title: ლექცია 1 - შესავალი
+parent: ლექციები
+description: დღეს ვილაპარაკებთ საგნის სტრუქტურაზე
 ---
 
 
-Let's write some code
+დავიწყოთ კოდის წერა
 
 ```c
 function main() {
