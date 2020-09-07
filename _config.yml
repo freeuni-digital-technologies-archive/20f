@@ -12,7 +12,7 @@ url: "https://iarigby.github.io"
 
 exclude: [] 
 
-search_enabled: true
+search_enabled: false
 search:
   heading_level: 4
   previews: 3 # TODO what does this do
