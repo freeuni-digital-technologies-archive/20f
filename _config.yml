@@ -2,8 +2,8 @@ remote_theme: pmarsceill/just-the-docs
 
 
 # TODO change these 4
-title: Course Name 
-description: Course description 
+title: საგნის სახელი
+description: აღწერა 
 
 baseurl: coursesetup # repo name
 url: "https://iarigby.github.io" 
@@ -27,9 +27,9 @@ heading_anchors: true
 
 # TODO change
 aux_links: 
-    "See the subject code on GitHub":
+    "საიტის კოდი GitHub-ზე":
     - "//github.com/iarigby/coursesetup"
-    "Join google classroom":
+    "google classroom":
     - "//classroom.google.com"
 
 aux_links_new_tab: true
@@ -37,13 +37,13 @@ aux_links_new_tab: true
 nav_sort: case_insensitive
 
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "გვერდის დასაწყისში დაბრუნება"
 
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_link_text: "ამ გვერდის კოდი"
 # TODO change this
 gh_edit_repository: "https://github.com/iarigby/coursesetup" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_branch: "basic-setup" # TODO change # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 
