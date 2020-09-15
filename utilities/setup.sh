@@ -1,4 +1,5 @@
 #!/bin/sh
 
-sed "s/coursesetup/$(basename ../paradigms)/g" ../_config.yml > ../_config.yml
-sed "s/basic-setup/master/g" ../_config.yml > ../_config.yml
+new_name=$(basename $(pwd))
+sed -i "s/coursesetup/$new_name/g" ./_config.yml
+sed -i "s/basic-setup/master/g" ./_config.yml

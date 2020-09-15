@@ -1,11 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
 
 
-# TODO change these 4
-title: საგნის სახელი
-description: აღწერა 
+title: შესავალი ციფრულ ტექნოლოგიებში
+description: თბილისის თავისუფალი უნივერსიტეტი, 2020 გაზაფხული
 
-baseurl: coursesetup # repo name
+baseurl: digital-technologies # repo name
 url: "https://iarigby.github.io" 
 
 
@@ -15,7 +14,7 @@ exclude: []
 search_enabled: false
 search:
   heading_level: 4
-  previews: 3 # TODO what does this do
+  previews: 3 
   preview_words_before: 5
   preview_words_after: 10
   tokenizer_separator: /[\s/]+/
@@ -28,7 +27,7 @@ heading_anchors: true
 # TODO change
 aux_links: 
     "საიტის კოდი GitHub-ზე":
-    - "//github.com/iarigby/coursesetup"
+    - "//github.com/iarigby/digital-technologies"
     "google classroom":
     - "//classroom.google.com"
 
@@ -42,8 +41,8 @@ back_to_top_text: "გვერდის დასაწყისში და�
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "ამ გვერდის კოდი"
 # TODO change this
-gh_edit_repository: "https://github.com/iarigby/coursesetup" # the github URL for your repo
-gh_edit_branch: "basic-setup" # TODO change # the branch that your docs is served from
+gh_edit_repository: "https://github.com/iarigby/digital-technologies" # the github URL for your repo
+gh_edit_branch: "master" # TODO change # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 
