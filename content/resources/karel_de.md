@@ -44,10 +44,12 @@ sudo pacman -S jdk8-openjdk jre8-openjdk
 
 1. თუკი გიწერთ მესიჯს: _“JSKarel.jar” cannot be opened because it is from an unidentified developer_:
 
-  გახსენით System Preferences > Security & Privacy და დააჭირეთ Open Anyway ღილაკს. 
+   გახსენით __System Preferences > Security & Privacy__ და დააჭირეთ Open Anyway ღილაკს. 
 
 ### Linux
 გადმოწერეთ [JSKarel for Linux](https://drive.google.com/file/d/1Fhx_g1FVozPerGi_UFPdXE6ZBj-yjJVb/view?usp=sharing). ამოარქივეთ და ამოარქივებულ ფოლდერში გაუშვით JSKarel.jar¹
 
-1. თუ JSKarel.jar-ზე დაჭერისას კარელი არ ირთვება, right click > open with > Java Runtime (ან რამე მსგავსი სახელი). თუ მაინც არ ირთვება, გახსენით ტერმინალი, გადადით JSKarel-ის ფოლდერში და გაუშვით ამ ბრძანებით
+1. თუ JSKarel.jar-ზე დაჭერისას კარელი არ ირთვება, __right click > open with > Java Runtime__ (ან რამე მსგავსი სახელი). თუ მაინც არ ირთვება, გახსენით ტერმინალი, გადადით JSKarel-ის ფოლდერში და გაუშვით ამ ბრძანებით:
+```bash
 java -jar JSKarel.jar
+```
