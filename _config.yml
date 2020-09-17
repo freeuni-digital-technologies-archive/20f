@@ -1,4 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
 
 title: შესავალი ციფრულ ტექნოლოგიებში
@@ -6,8 +7,6 @@ description: თბილისის თავისუფალი უნი�
 
 baseurl: digital-technologies # repo name
 url: "https://iarigby.github.io" 
-
-
 
 exclude: [] 
 
@@ -60,3 +59,10 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "commentable"
