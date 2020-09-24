@@ -33,7 +33,7 @@ sudo pacman -S jdk8-openjdk jre8-openjdk
 ## კარელის გაშვების ინსტრუქცია
 
 ### Windows
-გადმოწერეთ [JSKarel for windows](https://drive.google.com/file/d/1utLHfYGnPfDShb7D5H9bNcgI66gKK-ji/view?usp=sharing) და ამოარქივეთ სასურველ ადგილას¹. შემდეგ ამოარქივებულ ფოლდერში გაუშვით JSKarel.jar²
+გადმოწერეთ [JSKarel for windows](https://drive.google.com/file/d/1utLHfYGnPfDShb7D5H9bNcgI66gKK-ji/view?usp=sharing) და ამოარქივეთ (დააკლიკეთ ფაილს მარჯვენა ღილაკით და დააჭირეთ "extract to ...") სასურველ ადგილას¹. შემდეგ ამოარქივებულ ფოლდერში გაუშვით JSKarel.jar²
 
 1. თუ ვერ ხსნით ავტომატურად, გადმოწერილ ფაილზე _right click > open with > windows explorer_. დაინახავთ ფოლდერს JSKarel for Windows. დააკოპირეთ და გადაიტანეთ სასურველ ადგილას
 2. თუ JSKarel.jar-ზე დაჭერისას კარელი არ ირთვება, _right click > open with > Java_
