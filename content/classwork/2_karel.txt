@@ -1,0 +1,110 @@
+function main() {
+	f1();
+}
+
+function turnRight() {
+	turnLeft();
+   turnLeft();
+   turnLeft();
+}
+
+
+function turnAround() {
+	repeat(2) {
+     turnLeft();
+  }
+}
+
+// დაფიქრდით, რა განსხვავებაა f1 და f2-ს შორის
+
+function f1() {
+	repeat(2) {
+     turnLeft();
+  }
+  move();
+}
+
+
+function f2() {
+	repeat(2) {
+     turnLeft();
+     move();
+  }
+}
+
+function main() {
+  // goToEnd();
+  // goToEnd2();
+ // pickBeeperIf();
+  // pickAllBeepers(); 
+   moveOneBeeper();
+}
+
+
+function goToEnd() {
+// 10-ზე რა იქნება?
+  repeat(9) {
+    move();
+  }
+}
+
+function goToEnd2() {
+   while (frontIsClear()) {
+      move();
+   }
+}
+
+
+function pickBeeperIf() {
+// რა შეიცვლებოდა, თუ აქ while ეწერებოდა
+   if (beepersPresent()) {
+      pickBeeper();
+   }
+}
+
+
+// ყველა უჯრაზე დევს ერთი ან 0 ბურთი
+function pickAllBeepers() {
+  while (frontIsClear()) {
+     // რატომ არა pickBeeper()?
+      pickBeeperIf();
+      move();
+   }
+   pickBeeperIf();
+}
+
+function pickAllBeepers2() {
+  pickBeeperIf();
+  while (frontIsClear()) {
+      move();
+      pickBeeperIf();
+   }
+}
+
+// while-ის გარეთ არ ეწეროს არაფერი
+function pickAllBeepers3() {
+  while (frontIsClear()) {
+      pickBeeperIf();
+      move();
+      pickBeeperIf();
+   }
+}
+
+// თუ თითო უჯრაზე ერთზე მეტი ბურთი დევს
+// while-ით
+
+
+// რა მოხდება, თუ ბურთი არ დევს არსად?
+function findBeeper() {
+   while (!beepersPresent()) {
+      move();
+   }
+}
+
+function moveOneBeeper() {
+   findBeeper();
+   pickBeeper();
+   move();
+   putBeeper();
+}
+
