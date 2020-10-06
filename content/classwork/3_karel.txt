@@ -1,0 +1,53 @@
+function main() {
+	// sumBeepers1();
+   sumBeepers2();
+}
+
+function sumBeepers1() {
+	move();
+   moveBeepers();
+   move();
+   moveBeepers();
+}
+
+
+// დავალება:
+// ჯერ გადაიტანეთ მესამედან მეოთხე უჯრაზე
+// შემდეგ მეორედან მეოთხეზე
+function sumBeepers2() {
+   move();
+   moveBeepers2();
+   move();
+   moveBeepers();
+}
+
+// გადაიტანს ყველა ბურთს შემდეგ უჯრაზე
+function moveBeepers() {
+	while (beepersPresent()) {
+		pickBeeper();
+      move();
+      putBeeper();
+      turnAround();
+      move();
+      turnAround();
+	}
+}
+
+// გადაიტანს ყველა ბურთს ორი უჯრის იქით და დაბრუნდება სადაც იყო
+function moveBeepers2() {
+	while (beepersPresent()) {
+		pickBeeper();
+      move();
+      move();
+      putBeeper();
+      turnAround();
+      move();
+      move();
+      turnAround();
+	}
+}
+
+function turnAround() {
+      turnLeft();
+      turnLeft();
+}
