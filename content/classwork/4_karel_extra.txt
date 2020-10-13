@@ -1,0 +1,90 @@
+function main() {
+    // fillLinesVertically();
+    // pickAllBeepersIf();
+    // jumpFences();
+}
+
+function fillLinesVertically() {
+    fillLineVertically();
+    while(frontIsClear()) {
+        move();
+            fillLineVertically();
+    }     
+}
+
+function fillLineVertically() {
+    turnLeft();
+   fillLine();
+   turnAround();
+   goToEnd();
+   turnLeft();      
+}
+
+function fillLine() {
+    putBeeper();
+    while(frontIsClear()) {
+        move();
+        putBeeper();
+    }
+}
+
+function goToEnd() {
+    while(frontIsClear()) {
+        move();
+    }
+}
+
+function turnAround() {
+    turnLeft();
+    turnLeft();
+}
+
+function pickAllBeepersIf() {
+    while(frontIsClear()) {
+        pickBeeperIf();
+        move();
+    }
+    pickBeeperIf();
+}
+
+function pickBeeperIf() {
+    if (beepersPresent()) {
+        pickBeeper();
+    }
+}
+
+function jumpFences() {
+    repeat(9) {
+        if(frontIsClear()) {
+            move();
+        } else {
+            jump();
+        }
+    }
+}
+
+function jump() {
+    ascend();
+    move();
+    descend();
+}
+
+function ascend() {
+    turnLeft();
+    while(!rightIsClear()) {
+        move();
+    }
+    turnRight();
+}
+
+function descend() {
+    turnRight();
+    goToEnd();
+    turnLeft();
+}
+
+function turnRight() {
+    repeat(3) {
+        turnLeft();
+    }
+}

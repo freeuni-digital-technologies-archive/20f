@@ -1,0 +1,60 @@
+function main() {
+    // fillWorld();
+    // drawBorders();
+}
+
+function fillWorld() {
+    while (leftIsClear()) {
+        spiral();
+    }
+}
+
+function spiral() {
+    fillLine();
+    uTurnLeft();
+    fillLine();
+    uTurnRight();
+}
+
+function uTurnRight() {
+    turnRight();
+    if (frontIsClear()) {
+        move();
+    }
+    turnRight();
+}
+
+function uTurnLeft() {
+    turnLeft();
+    move();
+    turnLeft();
+}
+
+function turnRight() {
+    turnLeft();
+    turnLeft();
+    turnLeft();
+}
+
+function fillLine() {
+    putBeeper();
+    while(frontIsClear()) {
+        move();
+        putBeeper();
+    }
+}
+
+
+function drawBorders() {
+    repeat(4) {
+        fillLine1();
+        turnLeft();
+    }
+}
+
+function fillLine1() {
+    while(frontIsClear()) {
+        move();
+        putBeeper();
+    }
+}
