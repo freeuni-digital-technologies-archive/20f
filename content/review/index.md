@@ -5,8 +5,10 @@ nav_order: 2
 ---
 
 
-<details open markdown="block">
+<details markdown="block">
+
     <summary>მომავალი კვირების გეგმა</summary>
+
 ## 13.
 პროექტისთვის ჯგუფებში განაწილება
 
@@ -34,7 +36,6 @@ nav_order: 2
 ## 8. 9 ნოემბერი
 - ლექცია: ვები
 - სემინარი: html შესავალი
-
 </details>
 
 ## 7. 2 ნოემბერი 
