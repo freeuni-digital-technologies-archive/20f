@@ -7,7 +7,7 @@ nav_order: 2
 
 <details markdown="block">
 
-    <summary>მომავალი კვირების გეგმა</summary>
+<summary>მომავალი კვირების გეგმა</summary>
 
 ## 13.
 პროექტისთვის ჯგუფებში განაწილება
