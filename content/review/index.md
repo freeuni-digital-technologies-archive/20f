@@ -88,8 +88,11 @@ nav_order: 2
 ### 7. 2 ნოემბერი 
 - ლექცია: [ინტერნეტი (შესავალი)](/content/lectures/7_internet)
 - სემინარი: ჯავასკრიპტის სავარჯიშოები
+    + [საწყისი კოდი](https://codesandbox.io/s/seminar2-hffs1?file=/index.js)
+    + [ამოხსნა](https://codesandbox.io/s/seminar2-solution-jkoun)
+    + [ბოლო ორ კვირას ჯავასკრიპტის ნასწავლი ფუნქციონალის შეჯამება](/content/resources/javasccript_reference)
 
-**დავალება 5: javascript** დაიდება კვირის ბოლომდე. დედლაინი იქნება დადებიდან 1 კვირაში.
+**დავალება 5: javascript** შეგიძლიათ ნახოთ [აქ](https://codesandbox.io/s/homework5-fmpgf?file=/index.js). 
 
 
 ### 8. 9 ნოემბერი
