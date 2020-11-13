@@ -13,8 +13,8 @@ parent: რესურსები
 ## კოდი ამ მაგალითებით
 ამ გვერდზე არის მოკლე შეჯამება და ნაკლები ახსნა. გამიზნულია სემინარის შემდეგ გადასამეორებლად. კოდი, რომელიც სემინარებზე გავარჩიეთ:
 
-- პირველი ლექცია/სემინარი და ამოხსნა
-- მეორე სემინარი და ამოხსნა
+- [პირველი ლექცია/სემინარი](https://codesandbox.io/s/seminar1-4hcjw?file=/index.js) და [ამოხსნა](https://codesandbox.io/s/seminar1-solution-bb4gj?file=/index.js:88-143)
+- [მეორე სემინარი](https://codesandbox.io/s/seminar2-hffs1?file=/index.js) და [ამოხსნა](https://codesandbox.io/s/seminar2-solution-jkoun)
 
 ## basics
 ### მონაცემთა ტიპები

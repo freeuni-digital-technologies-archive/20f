@@ -11,6 +11,7 @@ layout: commentable
 - [ლექცია და სემინარის zoom ლინკი](https://zoom.us/j/6528590158). ორშაბათი 15:50-დან 18:00-მდე (ორი საათი)
 - [სილაბუსი](/content/files/syllabus.pdf)
 - google კალენდარში დამატება: [ლექცია](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjcxcWZlamluNHIxZ3Q3MDd0cjQzbTlyMWRfMjAyMDA5MjhUMTE1MDAwWiBpLm1naHZkbGlhc2h2aWxpQGZyZWV1bmkuZWR1Lmdl&tmsrc=i.mghvdliashvili%40freeuni.edu.ge&scp=ALL), [სემინარი](https://calendar.google.com/event?action=TEMPLATE&tmeid=M2Niam9jMHY2bmdlMHQ2ZTE3NGJ0Y2I0ZThfMjAyMDA5MjhUMTMwMDAwWiBpLm1naHZkbGlhc2h2aWxpQGZyZWV1bmkuZWR1Lmdl&tmsrc=i.mghvdliashvili%40freeuni.edu.ge&scp=ALL)
+- [ლექციისა და სემინარების ჩანაწერების ფოლდერი](https://drive.google.com/drive/folders/1A_MuZu_aV53I5GNMrpHNS3hMtjy1DFSp?usp=sharing)
 
 ## საიტის გამოყენება
 
