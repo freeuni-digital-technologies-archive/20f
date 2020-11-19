@@ -94,9 +94,6 @@ nav_order: 2
 
 **დავალება 5: javascript** შეგიძლიათ ნახოთ [აქ](https://codesandbox.io/s/homework5-fmpgf?file=/index.js). 
 
-</details>
-
-
 ### 8. 9 ნოემბერი
 - [ორივე საათის ჩანაწერი](https://drive.google.com/file/d/1npmBl6SrhR8Xuraq1nmK4IsFXditXsqv/view?usp=sharing)
 - javascript/html/css დავალებების [ატვირთვის ინსტრუქცია](/content/info/hw_web)
@@ -107,6 +104,7 @@ nav_order: 2
 - სხვა:
     + დრაივზე შევქმენი [ახალი ფოდლერი](https://drive.google.com/drive/folders/1A_MuZu_aV53I5GNMrpHNS3hMtjy1DFSp?usp=sharing) ლექცია/სემინარების ვიდეო ჩანაწერების და რამდენიმე გამოგზავნილი უკვე დავამატე. თუ თქვენც გაქვთ ჩანაწერი, გთხოვთ ატვირთოთ. ეს ბმული დამატებულია მთავარ გვერდზეც 
     + ამ ფოლდერში ჩანაწერები კატეგორიების მიხედვითაა დალაგებული და კონკრეტული კვირების ლინკებს ჩავამატებ ამ გვერდზე.
+</details>
 
 
 ### 9. 16 ნოემბერი
