@@ -27,13 +27,14 @@ parent: რესურსები
 ## local IDE
 თუ გსურთ "ნამდვილი" დეველოპმენტის გამოცდილება.
 
-- გადმოწერეთ კოდი stackblitz-დან (files->export to zip) და გააკეთეთ extract archive / zip
-- გადმოწერეთ და გახსენით code editor (sublime, vscode)
+- გადმოწერეთ კოდი stackblitz-დან (files->export to zip) და გააკეთეთ extract archive / zip. ან გადმოწერეთ html ფაილი საიტიდან (ctrl+s) 
+- გადმოწერეთ და გახსენით code editor (vscode, sublime)
 - მენიუში File > Open Folder > თქვენი სადაც unzip გააკეთეთ
 - გახსენით ფაილები და შეცვალეთ ტექსტი
 - შედეგის სანახავად file explorerდან ორჯერ დააჭირეთ index.html ფაილს (ან right click > open with > chrome/firefox browser)
 - კონსოლის სანახავად დააჭირეთ f12ს
 
+code editor-ად გირჩევთ ამ პროგრამებს
+- [visual studio code](https://code.visualstudio.com/). ამ პროგრამას ასევე აქვს live preview-ს/auto-save გაფართოვება და ბრაუზერის გარეშე შეძლებთ საიტის ნახვას
+- [sublime](https://www.sublimetext.com/) თუ სუსტი მონაცემების კომპიუტერი გაქვთ და vscode ჭედავს 
 
-## mobile/tablet IDE
-დიდი საიტები მობილურზე და ტაბლეტზე კარგად არ მუშაობს, ლოკალურად კი ლეპტოპის პროგრამას ვერ დააინსტალირებთ.
