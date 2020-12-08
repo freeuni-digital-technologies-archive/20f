@@ -121,9 +121,6 @@ nav_order: 2
 
 [ამ გვერდიდან](https://ka.khanacademy.org/computing/computer-programming/html-css) გაიარეთ შემდეგი თავები: შესავალი HTML-ში, შესავალი CSS-ში, მეტი HTML თეგი, css ტექსტის თვისებები
 
-</details>
-
-
 ### 11. 30 ნოემბერი
 - შარშანდელი სტუდენტის შექმნილი [საიტი](freeuni-digital-technologies.github.io/eabas19-project-website/)
 - [ჯგუფი](https://www.facebook.com/groups/205469644291737) დისკუსიებისთვის და საინტერესო/სასარგებლო რესურსების გაზიარებისთვის. პირველი პოსტი დავდე უკვე და ნახეთ :)
@@ -134,10 +131,8 @@ nav_order: 2
     + [css მასალის დასრულება](https://ka.khanacademy.org/computing/computer-programming/html-css/more-css-selectors/pt/using-multiple-css-classes). სემინარზე ყველაფერი ვერ მოვასწარით. უყურეთ ვიდეოებს და გააკეთეთ სავარჯიშოები
     + ეს ორი არ შემოწმდება, მაგრამ მეექვსე დავალება მომავალ კვირას იქნება ამ სავარჯიშოებზე დაყრდნობით
 
+</details>
 
-<details markdown="block">
-
-<summary>მომავალი კვირების გეგმა</summary>
 
 
 ### 12. 7 დეკემბერი
@@ -159,6 +154,10 @@ nav_order: 2
 - სემინარი: ხანის აკადემიაზე DOM javascript-ის კითხვების განხილვა. ვებ აპლიკაციის დაწყება
 
 **დავალება 6: html/css/javascript** <br>
+
+<details markdown="block">
+
+<summary>მომავალი კვირების გეგმა</summary>
 
 ### 14. 21 დეკემბერი
 - ლექცია: ციფრული უსაფრთხოება
