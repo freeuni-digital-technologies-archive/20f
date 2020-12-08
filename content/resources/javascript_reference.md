@@ -15,6 +15,7 @@ parent: რესურსები
 
 - [პირველი ლექცია/სემინარი](https://codesandbox.io/s/seminar1-4hcjw?file=/index.js) და [ამოხსნა](https://codesandbox.io/s/seminar1-solution-bb4gj?file=/index.js:88-143)
 - [მეორე სემინარი](https://codesandbox.io/s/seminar2-hffs1?file=/index.js) და [ამოხსნა](https://codesandbox.io/s/seminar2-solution-jkoun)
+- მეტი ახსნების ნახვა შეგიძლიათ [ამ გვერდზე](https://webschool.ge/js/1303)
 
 ## basics
 ### მონაცემთა ტიპები
@@ -79,4 +80,7 @@ console.log(sum); // დაწერს 8-ს
 ```
 
 
+### ობიექტები
+
+### სიები
 
