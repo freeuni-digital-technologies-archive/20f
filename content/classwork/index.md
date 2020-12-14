@@ -20,6 +20,8 @@ has_children: true
 
 8. [შესავალი](https://codesandbox.io/s/seminar8-html1-d23yp?file=/index.html)
 9. [საწყისები](https://codesandbox.io/s/seminar9-html1-k9gfy)
-10. [ყველა თეგი და სელექტორი (მომავალ კვირას დავალებასთან ერთად)]()
 
+
+## ვებ აპლიკაციის სემინარები:
+13. []()
 

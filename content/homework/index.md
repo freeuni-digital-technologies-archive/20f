@@ -14,9 +14,8 @@ has_children: true
 ## html/css/javascript დავალებები
 
 5. [javascript](https://codesandbox.io/s/homework5-fmpgf)
-6. [html/css]()
-7. [html/css/javascript]()
-8. [html/css/javascript]()
+6. [html/css/javascript]()
+7-8. [html/css/javascript]()
 
 <!-- 
 https://codesandbox.io/s/homework6-b0drj
