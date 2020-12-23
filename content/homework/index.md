@@ -14,7 +14,7 @@ has_children: true
 ## html/css/javascript დავალებები
 
 5. [javascript](https://codesandbox.io/s/homework5-fmpgf)
-6. [html/css/javascript]()
+6. [html/css/javascript](https://codesandbox.io/s/homework6-webapp1-dxb61) აპლიკაციისთვის username-ის დამატება
 7-8. [html/css/javascript]()
 
 <!-- 
