@@ -162,7 +162,7 @@ nav_order: 2
 
 ### 15. 28 დეკემბერი
 - პრეზენტაცია: vpn
-- ლექცია: პროგრამების შექმნის პროცესი. agile, scrum
+- ლექცია: [პროგრამების შექმნის პროცესი](/content/lectures/15_development)
 - [ფინალური პროექტის](/content/info/final_project) წესები
 - სემინარი: ვეპ აპლიკაცია [ნაწილი მესამე: მონაცემების შენახვა](/content/classwork/15_webapp3)
 - [დისკუსიის ბონუსის](/content/info/discussion_bonus) შესახებ ინფორმაცია
