@@ -1,6 +1,6 @@
 ---
 title: კარელის დავალებები
-parent: ინსტრუქციები
+parent: ინსტრუქციები, ინფორმაცია
 ---
 
 კარელის დავალებები უნდა ატვირთოთ კლასრუმზე [(ატვირთვის ინსტრუქცია)](https://drive.google.com/file/d/1Zv05bv3_yuAVbLPs9MhaLga9t4-LlD5P/view?usp=sharing)
