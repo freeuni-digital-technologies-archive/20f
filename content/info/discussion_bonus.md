@@ -80,6 +80,11 @@ parent: ინსტრუქციები, ინფორმაცია
 - [discussion](https://www.reddit.com/r/LifeProTips/comments/k2vuss/lpt_amazon_will_be_enabling_a_feature_called/) Amazon will be enabling a feature called sidewalk that will share your Wi-Fi and bandwidth with anyone with an Amazon device automatically. Stripping away your privacy and security of your home network! This is an opt out system meaning it will be enabled by default
 - [Decentralisation: the next big step for the world wide web ](https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle) The decentralised web, or DWeb, could be a chance to take control of our data back from the big tech firms. So how does it work and when will it be here? ეს ჩემი საყვარელი მიმართულებაა :)
 - [NSO used real people’s location data to pitch its contact-tracing tech](https://techcrunch.com/2020/12/30/nso-fleming-data-location/) Researchers say NSO's use of real data "violated the privacy" of thousands of unwitting people.
+- [How do websites track users? | Technologies and methods](https://www.cookiebot.com/en/website-tracking/) უფრო დეტალურად იმის შესახებ, თუ როგორ გამოიყენება cookies და სხვა მეთოდები ინტერნეტ მომხმარებლების ყველა აქტიურობის ჩასაწერად და საიტებს (და ნებისმიერ ორგანიზაციებს) შორის გასაზიარებლად. წაკითხვამდე გირჩევთ [ამ ვიდეოს](https://www.youtube.com/watch?v=I01XMRo2ES) ყურებას
+
+- [აბსურდული და ძალიან საშიში კანონპროექტი](https://www.reddit.com/r/Futurology/comments/hn4x1o/you_may_be_distracted_by_the_pandemic_but_fyi_us/), რომელიც 2020 წელს მიიღო სენატმა. კომპანიებს ეკრძალებათ დაცული შიფრის გამოყენება (როდესაც გასაღები მხოლოდ მომხმარებელს აქვს და მის ინფორმაციას კომპანიაც კი ვერ კითხულობს). ვალდებული არიან ფედერალურ კომისიას მისცენ გასაღები, თუ მოთხოვენ. რის გამო არის არარეალისტური
+    1. გასაღები თუ კომპანიას აქვს, უსაფრთხოების ბევრი გარანტი იკარგება. 
+    2. სახელმწიფო პირობას დებს, მხოლოდ "ბოროტმოქმედების" ინფორმაციის მოსათხოვნად გამოიყენოს ეს გასაღები (გამოიცანით სინამდვილეში რისთვის უნდათ და გამოიყენებენ)
 
 
 ### open source
@@ -114,9 +119,17 @@ parent: ინსტრუქციები, ინფორმაცია
 - [Amazon Is Becoming More Powerful Than You Realize](https://onezero.medium.com/amazon-is-becoming-more-powerful-than-you-realize-2093d6860886)
 - [Facebook Employees Are So Paranoid They’re Using Burner Phones to Talk to Each Other](https://nymag.com/intelligencer/2018/12/facebook-employees-unhappy-at-company-amid-scandal.html)
 
+## სხვა რესურსები
+### youtube
+- computerphile
+- Tom Scott
+
+## reddit
+r/privacy, r/stallmanwasright, r/freesoftware, r/darkpatterns
+
 ### პოდკასტები
 - [Post No Evil](https://www.wnycstudios.org/podcasts/radiolab/articles/post-no-evil) Back in 2008 Facebook began writing a document. It was a constitution of sorts, laying out what could and what couldn’t be posted on the site. Back then, the rules were simple, outlawing nudity and gore. Today, they’re anything but. How do you define hate speech? Where’s the line between a joke and an attack? How much butt is too much butt? Facebook has answered these questions. And from these answers they’ve written a rulebook that all 2.2 billion of us are expected to follow. Today, we explore that rulebook. We dive into its details and untangle its logic. All the while wondering what does this mean for the future of free speech?
-
+- ეპიზოდი [bit flip](https://www.wnycstudios.org/podcasts/radiolab/articles/bit-flip)-ის შესახებ, როდესაც კოსმოსური ნაწილაკები კომპიუტერის მეხსიერებასთან დაჯახებისას ციფრს ცვლიან. ამ ფენომენის აღმოჩენამდე უამრავი მანქანის კომპიუტერი მოულოდნელად იწყებდა მაქსიმალური სისწრაფით სიარულს და მუხრუჭი აღარ მუშაობდა, რამდენიმე ადამიანი დაიღუპა ან ციხეში მოხვდა სხვისი მკვლელობის ბრალდებით. ასევე ახსნილია, თუ როგორ უმკლავდებიან ამ მოვლენას კოსმოსში მყოფ აპარატურაზე, სადაც ციფრების შეცვლის და ავარიის შანსი ძალიან მაღალია.
 <!-- 
 ### საინტერესო რესურსები
 - youtube არხები
