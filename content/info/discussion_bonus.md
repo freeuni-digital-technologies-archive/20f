@@ -130,8 +130,4 @@ r/privacy, r/stallmanwasright, r/freesoftware, r/darkpatterns
 ### პოდკასტები
 - [Post No Evil](https://www.wnycstudios.org/podcasts/radiolab/articles/post-no-evil) Back in 2008 Facebook began writing a document. It was a constitution of sorts, laying out what could and what couldn’t be posted on the site. Back then, the rules were simple, outlawing nudity and gore. Today, they’re anything but. How do you define hate speech? Where’s the line between a joke and an attack? How much butt is too much butt? Facebook has answered these questions. And from these answers they’ve written a rulebook that all 2.2 billion of us are expected to follow. Today, we explore that rulebook. We dive into its details and untangle its logic. All the while wondering what does this mean for the future of free speech?
 - ეპიზოდი [bit flip](https://www.wnycstudios.org/podcasts/radiolab/articles/bit-flip)-ის შესახებ, როდესაც კოსმოსური ნაწილაკები კომპიუტერის მეხსიერებასთან დაჯახებისას ციფრს ცვლიან. ამ ფენომენის აღმოჩენამდე უამრავი მანქანის კომპიუტერი მოულოდნელად იწყებდა მაქსიმალური სისწრაფით სიარულს და მუხრუჭი აღარ მუშაობდა, რამდენიმე ადამიანი დაიღუპა ან ციხეში მოხვდა სხვისი მკვლელობის ბრალდებით. ასევე ახსნილია, თუ როგორ უმკლავდებიან ამ მოვლენას კოსმოსში მყოფ აპარატურაზე, სადაც ციფრების შეცვლის და ავარიის შანსი ძალიან მაღალია.
-<!-- 
-### საინტერესო რესურსები
-- youtube არხები
-- reddit ფორუმები
--  -->
+
