@@ -22,37 +22,39 @@ parent: ინსტრუქციები, ინფორმაცია
 - TOC
 {:toc}
 
+## ღია კითხვები და საკვანძო კითხვები
+- data ownership and privacy
+    + ვინ ფლობს მონაცემებს
+    + GDPR
 
-### data ownership and privacy
-- ვინ ფლობს მონაცემებს
-- GDPR
+- free cloud
+    - ტრადიციული მონოპოლისტური პლათფორმების პრობლემები და ღია/თავისუფალი ალტერნატივები
 
-### free cloud
-- ტრადიციული მონოპოლისტური პლათფორმების პრობლემები და ღია/თავისუფალი ალტერნატივები
+- open source software
+    + რა ზიანი მოაქვს დახურულ (closed source, proprietary) კოდს
+    + რა განსხვავებაა უფასო და თავისუფალ პროგრამებს შორის
 
-### open source software
-- რა ზიანი მოაქვს დახურულ (closed source, proprietary) კოდს
-- რა განსხვავებაა უფასო და თავისუფალ პროგრამებს შორის
+- online bots
+    + რა პრინციპით მუშაობს
+    + როდის და როგორ ასრულებენ ამ მოვალეობას ადამიანები და პროგრამები
+    + რა გავლენა აქვს რეალურ ცხოვრებაზე
+    + [Inside the Internet Research Agency, a Russian “troll farm](https://www.nytimes.com/2015/06/07/magazine/the-agency.html)
 
-### online bots
-- რა პრინციპით მუშაობს
-- როდის და როგორ ასრულებენ ამ მოვალეობას ადამიანები და პროგრამები
-- რა გავლენა აქვს რეალურ ცხოვრებაზე
+- hate speech, freedom of speech
+    + ვის ევალება კონტენტის მოდერაცია
+    + არსებობს თუ არა 
+    + publisher vs platform
 
-### hate speech, freedom of speech
-- ვის ევალება კონტენტის მოდერაცია
-- არსებობს თუ არა 
-- publisher vs platform
 
+
+
+## ბმულები
 
 ### ui/ux/design
 - [From Marx to Microsoft: the origins of flat design](https://thenextweb.com/dd/2015/11/19/from-marx-to-microsoft-the-origins-of-flat-design/) 
 
 ### ფინანსები
 - [How a Hot $100 Million Home Design Startup Collapsed Overnight](https://marker.medium.com/how-homepolishs-extremely-instagrammable-house-of-cards-came-tumbling-down-d7a7d1780ddc)
-
-### ბმულები
-
 - [For Facebook Content Moderators, Traumatizing Material Is A Job Hazard](https://www.npr.org/2019/07/01/737498507/for-facebook-content-moderators-traumatizing-material-is-a-job-hazard) Verge journalist Casey Newton investigated working conditions for the people who determine what material can be posted to Facebook. Many are traumatized by the images of hate and violence they see.
 
 ### ai
