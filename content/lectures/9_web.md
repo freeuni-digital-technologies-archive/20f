@@ -1,10 +1,6 @@
 ---
-title: web
-theme: white    
-center: true
-separator: \n<!-- s -->\n
-verticalSeparator: \n<!-- v -->\n
-fragments: true
+title: 09. web
+parent: ლექციები
 ---
 
 [შექმნის მოტივაცია](https://webfoundation.org/about/vision/history-of-the-web/)

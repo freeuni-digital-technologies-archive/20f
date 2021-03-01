@@ -1,5 +1,5 @@
 ---
-title: 3. დეკომპოზიცია
+title: 03. დეკომპოზიცია
 parent: ლექციები
 nav_exclude: true
 ---
