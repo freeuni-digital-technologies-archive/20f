@@ -3,6 +3,16 @@ title: 20/21 შემოდგომა ფინალური გამო�
 parent: რესურსები
 ---
 
+<button id="hide_answers">პასუხების დამალვა/ჩვენება</button>
+
+<script>
+const correctAnswers = [...document.getElementsByTagName('input')].filter(a => a.checked)
+function toggleResponses() {
+    correctAnswers.forEach(a => a.checked = !a.checked)
+}
+</script>
+
+
 ## ლექციები - 8 კითხვა 12ქ, 4x1 4x2
 
 <!-- 1 3 -->
