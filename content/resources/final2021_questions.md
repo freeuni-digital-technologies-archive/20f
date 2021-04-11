@@ -5,13 +5,6 @@ parent: რესურსები
 
 <button id="toggle_answers">პასუხების დამალვა/ჩვენება</button>
 
-<script>
-const correctAnswers = [...document.getElementsByTagName('input')].filter(a => a.checked);
-function toggleAnswers() {
-    correctAnswers.forEach(a => a.checked = !a.checked);
-}
-document.getElementById('toggle_answers').onclick = toggleAnswers;
-</script>
 
 
 ## ლექციები - 8 კითხვა 12ქ, 4x1 4x2
@@ -428,4 +421,14 @@ f3(a, b) {
 - [ ] f1 და f3
 - [ ] ყველა
 - [x] არცერთი
+
+
+<script>
+const correctAnswers = [...document.getElementsByTagName('input')].filter(a => a.checked);
+function toggleAnswers() {
+    correctAnswers.forEach(a => a.checked = !a.checked);
+}
+document.getElementById('toggle_answers').onclick = toggleAnswers;
+</script>
+
 
