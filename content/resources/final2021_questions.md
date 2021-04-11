@@ -3,13 +3,14 @@ title: 20/21 შემოდგომა ფინალური გამო�
 parent: რესურსები
 ---
 
-<button id="hide_answers">პასუხების დამალვა/ჩვენება</button>
+<button id="toggle_answers">პასუხების დამალვა/ჩვენება</button>
 
 <script>
-const correctAnswers = [...document.getElementsByTagName('input')].filter(a => a.checked)
-function toggleResponses() {
-    correctAnswers.forEach(a => a.checked = !a.checked)
+const correctAnswers = [...document.getElementsByTagName('input')].filter(a => a.checked);
+function toggleAnswers() {
+    correctAnswers.forEach(a => a.checked = !a.checked);
 }
+document.getElementById('toggle_answers').onclick = toggleAnswers;
 </script>
 
 
