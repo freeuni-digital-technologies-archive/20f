@@ -5,7 +5,7 @@ title: შესავალი ციფრულ ტექნოლოგი�
 description: თბილისის თავისუფალი უნივერსიტეტი, 2020 შემოდგომა
 
 baseurl: # repo name
-url: "https://freeuni-digital-technologies.github.io/dt2021fall" 
+url: "https://freeuni-digital-technologies.github.io/2021fall" 
 
 exclude: [] 
 
@@ -25,7 +25,7 @@ heading_anchors: true
 # TODO change
 aux_links: 
     "საიტის კოდი GitHub-ზე":
-    - "//github.com/freeuni-digital-technologies/dt2021fall"
+    - "//github.com/freeuni-digital-technologies/2021fall"
     "google classroom":
     - "https://classroom.google.com/c/MTcwMzM0NjcxNzcz?cjc=vvhqgvk"
 
@@ -39,7 +39,7 @@ back_to_top_text: "გვერდის დასაწყისში და�
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "ამ გვერდის კოდი"
 # TODO change this
-gh_edit_repository: "https://github.com/freeuni-digital-technologies/dt2021fall" # the github URL for your repo
+gh_edit_repository: "https://github.com/freeuni-digital-technologies/2021fall" # the github URL for your repo
 gh_edit_branch: "master" # TODO change # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
