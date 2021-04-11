@@ -4,7 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 title: შესავალი ციფრულ ტექნოლოგიებში
 description: თბილისის თავისუფალი უნივერსიტეტი, 2020 შემოდგომა
 
-baseurl: # repo name
+baseurl: "2021fall"
 url: "https://freeuni-digital-technologies.github.io/2021fall" 
 
 exclude: [] 
@@ -58,10 +58,3 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "commentable"
