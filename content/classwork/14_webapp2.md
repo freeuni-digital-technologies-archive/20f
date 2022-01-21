@@ -7,7 +7,7 @@ parent: სემინარები
 ამ რესურსის გამოყენების რჩევები იხილეთ სემინარების გვერდზე
 
 + [საწყისი კოდი](https://codesandbox.io/s/seminar14-webapp2-starter-fsxgv)
-+ [საბოლოო კოდი](https://codesandbox.io/s/seminar14-webapp2-final-fsxgv)'
++ [საბოლოო კოდი](https://codesandbox.io/s/seminar14-webapp2-final-fsxgv)
 
 - TOC
 {:toc}
@@ -85,7 +85,7 @@ like_count.innerText = Number(like_count.innerText) + 1;
 ```
 
 ## წაშლა
-თუ მოწონებას მიხვდით, წაშლა ბევრად უფრო მარტივია. ღილაკზე მიმაგრებულ ფუნქციაში იმავე პრინციპით ვიპოვოთ პოსტის ელემენტი და წავშალოთ.
+თუ მოწონებას მიხვდით, წაშლა ბევრად უფრო მარტივი„ა. ღილაკზე მიმაგრებულ ფუნქციაში იმავე პრინციპით ვიპოვოთ პოსტის ელემენტი და წავშალოთ.
 
 > search: javascript delete html element
 
